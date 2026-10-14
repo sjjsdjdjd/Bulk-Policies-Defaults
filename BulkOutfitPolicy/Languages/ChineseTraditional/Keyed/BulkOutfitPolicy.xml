@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkOutfitPolicy_Apparel>批次設定著裝方案</BulkOutfitPolicy_Apparel>
+  <BulkOutfitPolicy_Food>批次設定食物方案</BulkOutfitPolicy_Food>
+  <BulkOutfitPolicy_Drug>批次設定用藥方案</BulkOutfitPolicy_Drug>
+  <BulkOutfitPolicy_Reading>批次設定讀書方案</BulkOutfitPolicy_Reading>
+  <BulkOutfitPolicy_MedicalCare>醫療照護等級</BulkOutfitPolicy_MedicalCare>
+  <BulkOutfitPolicy_DefaultsTooltip>設定殖民者、囚犯、奴隸和訪客加入時自動套用的食物方案與醫療照護等級</BulkOutfitPolicy_DefaultsTooltip>
+  <BulkOutfitPolicy_DefaultsTitle>加入時自動套用的預設方案</BulkOutfitPolicy_DefaultsTitle>
+  <BulkOutfitPolicy_Colonists>殖民者</BulkOutfitPolicy_Colonists>
+  <BulkOutfitPolicy_Prisoners>囚犯</BulkOutfitPolicy_Prisoners>
+  <BulkOutfitPolicy_Slaves>奴隸</BulkOutfitPolicy_Slaves>
+  <BulkOutfitPolicy_Guests>訪客</BulkOutfitPolicy_Guests>
+</LanguageData>

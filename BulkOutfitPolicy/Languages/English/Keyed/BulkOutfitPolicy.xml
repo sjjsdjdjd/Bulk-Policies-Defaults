@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkOutfitPolicy_Apparel>Bulk-assign outfit policies</BulkOutfitPolicy_Apparel>
+  <BulkOutfitPolicy_Food>Bulk-assign food policies</BulkOutfitPolicy_Food>
+  <BulkOutfitPolicy_Drug>Bulk-assign drug policies</BulkOutfitPolicy_Drug>
+  <BulkOutfitPolicy_Reading>Bulk-assign reading policies</BulkOutfitPolicy_Reading>
+  <BulkOutfitPolicy_MedicalCare>Medical care level</BulkOutfitPolicy_MedicalCare>
+  <BulkOutfitPolicy_DefaultsTooltip>Set the food policy and medical care level automatically assigned to colonists, prisoners, slaves, and visitors when they join.</BulkOutfitPolicy_DefaultsTooltip>
+  <BulkOutfitPolicy_DefaultsTitle>Default policies applied when joining</BulkOutfitPolicy_DefaultsTitle>
+  <BulkOutfitPolicy_Colonists>Colonists</BulkOutfitPolicy_Colonists>
+  <BulkOutfitPolicy_Prisoners>Prisoners</BulkOutfitPolicy_Prisoners>
+  <BulkOutfitPolicy_Slaves>Slaves</BulkOutfitPolicy_Slaves>
+  <BulkOutfitPolicy_Guests>Guests</BulkOutfitPolicy_Guests>
+</LanguageData>

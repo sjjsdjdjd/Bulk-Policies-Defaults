@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Bulk Policies &amp; Defaults</name>
+  <author>Local</author>
+  <packageId>local.bulkoutfitpolicy</packageId>
+  <description>Adds bulk policy management to the Assign tab. Select multiple colonists to set their outfit, food, drug, and reading policies at once. Set default food and medical care for colonists, prisoners, slaves, and visitors. Defaults are automatically applied when they join. Falls back to vanilla defaults when not customized.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+</ModMetaData>

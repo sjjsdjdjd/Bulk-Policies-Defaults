@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkOutfitPolicy_Apparel>Asignar políticas de vestimenta en lote</BulkOutfitPolicy_Apparel>
+  <BulkOutfitPolicy_Food>Asignar políticas de comida en lote</BulkOutfitPolicy_Food>
+  <BulkOutfitPolicy_Drug>Asignar políticas de drogas en lote</BulkOutfitPolicy_Drug>
+  <BulkOutfitPolicy_Reading>Asignar políticas de lectura en lote</BulkOutfitPolicy_Reading>
+  <BulkOutfitPolicy_MedicalCare>Nivel de atención médica</BulkOutfitPolicy_MedicalCare>
+  <BulkOutfitPolicy_DefaultsTooltip>Configura la política de comida y el nivel de atención médica que se asignarán automáticamente a colonos, prisioneros, esclavos y visitantes cuando se unan</BulkOutfitPolicy_DefaultsTooltip>
+  <BulkOutfitPolicy_DefaultsTitle>Políticas predeterminadas al unirse</BulkOutfitPolicy_DefaultsTitle>
+  <BulkOutfitPolicy_Colonists>Colonos</BulkOutfitPolicy_Colonists>
+  <BulkOutfitPolicy_Prisoners>Prisioneros</BulkOutfitPolicy_Prisoners>
+  <BulkOutfitPolicy_Slaves>Esclavos</BulkOutfitPolicy_Slaves>
+  <BulkOutfitPolicy_Guests>Visitantes</BulkOutfitPolicy_Guests>
+</LanguageData>

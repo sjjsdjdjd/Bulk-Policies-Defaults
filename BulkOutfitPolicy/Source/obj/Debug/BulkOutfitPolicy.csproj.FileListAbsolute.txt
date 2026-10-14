@@ -1,0 +1,8 @@
+D:\Steam\steamapps\common\RimWorld\Mods\BulkOutfitPolicy\1.7\Assemblies\BulkOutfitPolicy.dll
+D:\Steam\steamapps\common\RimWorld\Mods\BulkOutfitPolicy\Source\obj\Debug\BulkOutfitPolicy.csproj.AssemblyReference.cache
+D:\Steam\steamapps\common\RimWorld\Mods\BulkOutfitPolicy\Source\obj\Debug\BulkOutfitPolicy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Steam\steamapps\common\RimWorld\Mods\BulkOutfitPolicy\Source\obj\Debug\BulkOutfitPolicy.AssemblyInfoInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\BulkOutfitPolicy\Source\obj\Debug\BulkOutfitPolicy.AssemblyInfo.cs
+D:\Steam\steamapps\common\RimWorld\Mods\BulkOutfitPolicy\Source\obj\Debug\BulkOutfitPolicy.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\BulkOutfitPolicy\Source\obj\Debug\BulkOutfitPolicy.dll
+D:\Steam\steamapps\common\RimWorld\Mods\BulkOutfitPolicy\Source\obj\Debug\BulkOutfitPolicy.pdb

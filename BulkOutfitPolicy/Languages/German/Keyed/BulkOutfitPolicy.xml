@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkOutfitPolicy_Apparel>Kleidervorgaben gesammelt zuweisen</BulkOutfitPolicy_Apparel>
+  <BulkOutfitPolicy_Food>Essensrichtlinien gesammelt zuweisen</BulkOutfitPolicy_Food>
+  <BulkOutfitPolicy_Drug>Drogenrichtlinien gesammelt zuweisen</BulkOutfitPolicy_Drug>
+  <BulkOutfitPolicy_Reading>Leserichtlinien gesammelt zuweisen</BulkOutfitPolicy_Reading>
+  <BulkOutfitPolicy_MedicalCare>Medizinische Versorgung</BulkOutfitPolicy_MedicalCare>
+  <BulkOutfitPolicy_DefaultsTooltip>Lege fest, welche Essensrichtlinie und medizinische Versorgung Kolonisten, Gefangene, Sklaven und Gäste beim Beitritt automatisch erhalten.</BulkOutfitPolicy_DefaultsTooltip>
+  <BulkOutfitPolicy_DefaultsTitle>Standardrichtlinien bei Beitritt</BulkOutfitPolicy_DefaultsTitle>
+  <BulkOutfitPolicy_Colonists>Kolonisten</BulkOutfitPolicy_Colonists>
+  <BulkOutfitPolicy_Prisoners>Gefangene</BulkOutfitPolicy_Prisoners>
+  <BulkOutfitPolicy_Slaves>Sklaven</BulkOutfitPolicy_Slaves>
+  <BulkOutfitPolicy_Guests>Gäste</BulkOutfitPolicy_Guests>
+</LanguageData>

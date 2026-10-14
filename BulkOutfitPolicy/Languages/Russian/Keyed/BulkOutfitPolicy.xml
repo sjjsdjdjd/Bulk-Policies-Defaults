@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkOutfitPolicy_Apparel>Массово назначить политику одежды</BulkOutfitPolicy_Apparel>
+  <BulkOutfitPolicy_Food>Массово назначить политику питания</BulkOutfitPolicy_Food>
+  <BulkOutfitPolicy_Drug>Массово назначить политику употребления наркотиков</BulkOutfitPolicy_Drug>
+  <BulkOutfitPolicy_Reading>Массово назначить политику чтения</BulkOutfitPolicy_Reading>
+  <BulkOutfitPolicy_MedicalCare>Уровень медицинской помощи</BulkOutfitPolicy_MedicalCare>
+  <BulkOutfitPolicy_DefaultsTooltip>Настроить политику питания и уровень медицинской помощи, которые автоматически назначаются колонистам, заключённым, рабам и гостям при вступлении в колонию</BulkOutfitPolicy_DefaultsTooltip>
+  <BulkOutfitPolicy_DefaultsTitle>Политики по умолчанию при вступлении в колонию</BulkOutfitPolicy_DefaultsTitle>
+  <BulkOutfitPolicy_Colonists>Колонисты</BulkOutfitPolicy_Colonists>
+  <BulkOutfitPolicy_Prisoners>Заключённые</BulkOutfitPolicy_Prisoners>
+  <BulkOutfitPolicy_Slaves>Рабы</BulkOutfitPolicy_Slaves>
+  <BulkOutfitPolicy_Guests>Гости</BulkOutfitPolicy_Guests>
+</LanguageData>
